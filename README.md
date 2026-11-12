@@ -1,8 +1,8 @@
 # Книга в Ухе
 
-Слушайте и скачивайте аудиокниги с knigavuhe.org на Mac, iPhone и iPad.
+Слушайте аудиокниги с knigavuhe.org на Mac, iPhone и iPad. На Mac книги также можно скачивать.
 
-В каталоге книги разложены по жанрам. Можно искать по названию, автору и циклам или вставить ссылку на книгу. Слушать можно сразу, не дожидаясь полной загрузки: программа запоминает место и скорость. Пока одна книга качается, следующую можно поставить в очередь. После входа на сайте появляются полка и история прослушиваний.
+В каталоге книги разложены по жанрам. Можно искать по названию, автору и циклам или вставить ссылку на книгу. Слушать можно сразу, не дожидаясь полной загрузки: программа запоминает место и скорость. На Mac, пока одна книга качается, следующую можно поставить в очередь. После входа на сайте появляются полка и история прослушиваний.
 
 Страница программы: [cyprus-team.com/knigavuhe](https://cyprus-team.com/knigavuhe)
 
@@ -14,12 +14,19 @@ DMG подписан сертификатом Developer ID и прошёл но�
 
 ## iPhone и iPad — версия 1.1
 
-Нужна iOS или iPadOS 26 и новее. На устройстве откройте [каталог CyprusTeam](https://cyprus-team.com/altstore), добавьте источник в AltStore Classic и выберите «Книга в Ухе». Источник можно добавить вручную по адресу [cyprus-team.com/altstore/source.json](https://cyprus-team.com/altstore/source.json).
+Нужна iOS или iPadOS 26 и новее. На iPhone и iPad доступно потоковое и фоновое воспроизведение. Мобильная версия готовится к публикации в App Store.
 
-Скачанные книги доступны в приложении «Файлы» в папке «На моём устройстве → Книга в Ухе → Audiobooks».
+### iPhone
 
-<img src="https://cyprus-team.com/altstore/apps/knigavuhe/iphone.jpg" width="200" alt="Каталог на iPhone">
-<img src="https://cyprus-team.com/altstore/apps/knigavuhe/ipad.jpg" width="320" alt="Каталог на iPad">
+<img src="images/mobile/iphone.jpg" width="180" alt="Каталог жанров на iPhone">
+<img src="images/mobile/iphone-search.jpg" width="180" alt="Поиск книг на iPhone">
+<img src="images/mobile/iphone-book.jpg" width="180" alt="Страница книги на iPhone">
+
+### iPad
+
+<img src="images/mobile/ipad.jpg" width="245" alt="Каталог жанров на iPad">
+<img src="images/mobile/ipad-search.jpg" width="245" alt="Поиск книг на iPad">
+<img src="images/mobile/ipad-book.jpg" width="245" alt="Страница книги на iPad">
 
 [История изменений](CHANGELOG.md)
 

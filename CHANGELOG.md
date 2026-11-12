@@ -1,15 +1,16 @@
 # Книга в Ухе
 
-Каталог, плеер и загрузка аудиокниг с knigavuhe.org на Mac, iPhone и iPad.
+Каталог и плеер аудиокниг с knigavuhe.org на Mac, iPhone и iPad. Загрузка книг доступна на Mac.
 
 - Страница программы: [cyprus-team.com/knigavuhe](https://cyprus-team.com/knigavuhe)
 - Сайт студии: [cyprus-team.com](https://cyprus-team.com/)
 
 ## 1.1
 
-- Добавлена поддержка iPhone и iPad с iOS/iPadOS 26 и новее. Мобильная версия распространяется через AltStore Classic.
-- На iPhone и iPad доступно фоновое воспроизведение. Скачанные книги открываются через приложение «Файлы».
-- Плеер и панель загрузки вынесены под список, поэтому кнопки пагинации доступны при открытых панелях.
+- Добавлена поддержка iPhone и iPad с iOS/iPadOS 26 и новее. Мобильная версия поддерживает потоковое прослушивание.
+- На iPhone и iPad доступно фоновое воспроизведение.
+- Исправлено отображение кавычек и других HTML-сущностей в описаниях и названиях.
+- Кнопки пагинации доступны над плеером и панелью загрузки.
 - Выпуск для macOS 26 и новее в одном DMG для Apple silicon и Intel.
 - Файл: [Knigavuhe.dmg](https://github.com/cyprus-team/knigavuhe/releases/download/v1.1/Knigavuhe.dmg)
 
