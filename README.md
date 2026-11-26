@@ -24,14 +24,7 @@
 
 Требуется iOS или iPadOS 26 и новее. Поддерживается потоковое и фоновое воспроизведение.
 
-### iPhone
-
-<img src="images/mobile/iphone.jpg" width="180" alt="Главная на iPhone">
-<img src="images/mobile/iphone-search.jpg" width="180" alt="Поиск книг на iPhone">
-<img src="images/mobile/iphone-book.jpg" width="180" alt="Страница книги на iPhone">
-
-### iPad
-
-<img src="images/mobile/ipad.jpg" width="245" alt="Главная на iPad">
-<img src="images/mobile/ipad-search.jpg" width="245" alt="Поиск книг на iPad">
-<img src="images/mobile/ipad-book.jpg" width="245" alt="Страница книги на iPad">
+| Устройство | Главная | Поиск | Страница книги |
+| --- | --- | --- | --- |
+| iPhone | <img src="images/mobile/iphone.jpg" width="180" alt="Главная на iPhone"> | <img src="images/mobile/iphone-search.jpg" width="180" alt="Поиск книг на iPhone"> | <img src="images/mobile/iphone-book.jpg" width="180" alt="Страница книги на iPhone"> |
+| iPad | <img src="images/mobile/ipad.jpg" width="245" alt="Главная на iPad"> | <img src="images/mobile/ipad-search.jpg" width="245" alt="Поиск книг на iPad"> | <img src="images/mobile/ipad-book.jpg" width="245" alt="Страница книги на iPad"> |
